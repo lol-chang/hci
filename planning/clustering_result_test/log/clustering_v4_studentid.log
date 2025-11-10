@@ -1,0 +1,21 @@
+[LOG] 로그 파일: planning\clustering_result_test\log\clustering_v4_studentid.log
+[OK] 장소 1876개 로드 완료
+[PROCESSING] 11112222_user_info.csv
+[WARNING] planning\softmax_result_test\11112222_recommendations_softmax.json 파일 없음
+[OK] 0명 선호도 캐싱 완료
+[WARNING] U0001 캐시 없음
+[LOG] 로그 파일: planning\clustering_result_test\log\clustering_v4_studentid.log
+[OK] 장소 1876개 로드 완료
+[PROCESSING] 11112222_user_info.csv
+[OK] 1명 선호도 캐싱 완료
+[SAVE] 11112222 저장 완료 -> planning\clustering_result_test\11112222_daily_clusters.json
+[LOG] 로그 파일: planning\clustering_result_test\log\clustering_v4_studentid.log
+[OK] 장소 1876개 로드 완료
+[PROCESSING] 33334444_user_info.csv
+[OK] 1명 선호도 캐싱 완료
+[SAVE] 33334444 저장 완료 -> planning\clustering_result_test\33334444_daily_clusters.json
+[LOG] 로그 파일: planning\clustering_result_test\log\clustering_v4_studentid.log
+[OK] 장소 1876개 로드 완료
+[PROCESSING] 55556666_user_info.csv
+[OK] 1명 선호도 캐싱 완료
+[SAVE] 55556666 저장 완료 -> planning\clustering_result_test\55556666_daily_clusters.json

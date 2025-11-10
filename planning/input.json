@@ -1,0 +1,20 @@
+{
+  "responses": {
+    "name": "Third User",
+    "studentID": "55556666",
+    "rank_category": {
+      "역사·문화": "1",
+      "자연·휴양": "3",
+      "미식": "4",
+      "액티비티": "2"
+    },
+    "keyword_history": "Culture",
+    "keyword_nature": "Park",
+    "keyword_food": "Dessert",
+    "keyword_activity": "Shopping",
+    "keyword_accomodation": "Luxury",
+    "budget": "300000"
+  },
+  "timestamp": "2025-11-10T08:33:32.814073",
+  "formUrl": ""
+}

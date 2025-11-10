@@ -1,0 +1,80 @@
+{
+  "budget_per_day": 0,
+  "itinerary": [
+    {
+      "day": 1,
+      "place_plan": [
+        {
+          "category": "Accommodation",
+          "count": 1,
+          "time": "09:30"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "10:30"
+        },
+        {
+          "category": "Cafe",
+          "count": 1,
+          "time": "12:00"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "14:00"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "17:00"
+        },
+        {
+          "category": "Restaurant",
+          "count": 1,
+          "time": "19:00"
+        },
+        {
+          "category": "Accommodation",
+          "count": 1,
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "place_plan": [
+        {
+          "category": "Accommodation",
+          "count": 1,
+          "time": "09:30"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "10:30"
+        },
+        {
+          "category": "Cafe",
+          "count": 1,
+          "time": "12:00"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "14:00"
+        },
+        {
+          "category": "Attraction",
+          "count": 1,
+          "time": "17:00"
+        },
+        {
+          "category": "Restaurant",
+          "count": 1,
+          "time": "19:00"
+        }
+      ]
+    }
+  ]
+}

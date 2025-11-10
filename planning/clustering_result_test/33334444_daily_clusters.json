@@ -1,0 +1,363 @@
+{
+  "user_id": "U0001",
+  "student_id": 33334444,
+  "name": "Test Final User",
+  "rotate": [
+    "hybrid",
+    "popularity",
+    "personalized"
+  ],
+  "travel_style": "Foodie",
+  "budget": 300000,
+  "duration_days": 2,
+  "like_keywords": [
+    "Museum visit",
+    "Beach fun",
+    "Fresh seafood",
+    "Scenic walk",
+    "Modern design"
+  ],
+  "dislike_keywords": [],
+  "Accommodation": 1000100071,
+  "accommodation_score": 0.44338236204430503,
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "seed_category": "Attraction",
+      "seed_place": {
+        "id": 1675156043,
+        "name": "강릉 경포대",
+        "final_score": 0.5033
+      },
+      "center_lat": 37.7955691591,
+      "center_lng": 128.8965126086,
+      "categories": {
+        "Cafe": [
+          {
+            "id": 1083326838,
+            "name": "씨엠디컴퍼니",
+            "final_score": 0.452
+          },
+          {
+            "id": 1439249340,
+            "name": "서지초가뜰",
+            "final_score": 0.4515
+          },
+          {
+            "id": 189619233,
+            "name": "강릉커피빵 본점",
+            "final_score": 0.4717
+          },
+          {
+            "id": 1188561598,
+            "name": "초당밀",
+            "final_score": 0.4306
+          },
+          {
+            "id": 1709924447,
+            "name": "롱블랙",
+            "final_score": 0.4673
+          },
+          {
+            "id": 1639218638,
+            "name": "덴켄",
+            "final_score": 0.4631
+          },
+          {
+            "id": 2003320621,
+            "name": "차전자",
+            "final_score": 0.414
+          },
+          {
+            "id": 1926085994,
+            "name": "스타벅스 강릉강문해변점",
+            "final_score": 0.4483
+          },
+          {
+            "id": 1763738753,
+            "name": "마더커피 강문점",
+            "final_score": 0.4396
+          },
+          {
+            "id": 1986607278,
+            "name": "백야커피",
+            "final_score": 0.432
+          }
+        ],
+        "Restaurant": [
+          {
+            "id": 1949567929,
+            "name": "화니조개구이",
+            "final_score": 0.4971
+          },
+          {
+            "id": 1815335754,
+            "name": "오봉이해물칼국수 강릉본점",
+            "final_score": 0.4962
+          },
+          {
+            "id": 15351961,
+            "name": "남향막국수 본점",
+            "final_score": 0.3892
+          },
+          {
+            "id": 1888786624,
+            "name": "시나미83",
+            "final_score": 0.4526
+          },
+          {
+            "id": 35700874,
+            "name": "솔담한정식 강릉본점",
+            "final_score": 0.3621
+          },
+          {
+            "id": 1511206408,
+            "name": "안현가",
+            "final_score": 0.4142
+          },
+          {
+            "id": 1823998778,
+            "name": "솔향기",
+            "final_score": 0.462
+          },
+          {
+            "id": 2041829875,
+            "name": "유천가든 강릉직영점",
+            "final_score": 0.4646
+          },
+          {
+            "id": 1318087817,
+            "name": "다송가든",
+            "final_score": 0.4214
+          },
+          {
+            "id": 1635365791,
+            "name": "팔도숯불조개구이",
+            "final_score": 0.4259
+          }
+        ],
+        "Attraction": [
+          {
+            "id": 13491109,
+            "name": "경포호",
+            "final_score": 0.4757
+          },
+          {
+            "id": 1090555407,
+            "name": "아르떼뮤지엄 강릉",
+            "final_score": 0.4973
+          },
+          {
+            "id": 472414455,
+            "name": "경포호수광장",
+            "final_score": 0.456
+          },
+          {
+            "id": 1338629806,
+            "name": "사근진해중공원 전망대",
+            "final_score": 0.5007
+          },
+          {
+            "id": 13300191,
+            "name": "경포도립공원",
+            "final_score": 0.4609
+          },
+          {
+            "id": 31044854,
+            "name": "경포가시연습지",
+            "final_score": 0.4052
+          },
+          {
+            "id": 1130774967,
+            "name": "허균·허난설헌 기념공원",
+            "final_score": 0.4404
+          },
+          {
+            "id": 11687693,
+            "name": "강릉 선교장",
+            "final_score": 0.4522
+          },
+          {
+            "id": 12079976,
+            "name": "경포해수욕장",
+            "final_score": 0.4521
+          },
+          {
+            "id": 1940124735,
+            "name": "강문솟대다리",
+            "final_score": 0.4492
+          }
+        ]
+      }
+    },
+    {
+      "cluster_id": 1,
+      "seed_category": "Cafe",
+      "seed_place": {
+        "id": 1009977259,
+        "name": "강원옥찹쌀떡&치코스타코 안목점",
+        "final_score": 0.4847
+      },
+      "center_lat": 37.7730454390935,
+      "center_lng": 128.946627140142,
+      "categories": {
+        "Cafe": [
+          {
+            "id": 1019503112,
+            "name": "강릉샌드 안목해변점",
+            "final_score": 0.4734
+          },
+          {
+            "id": 1933690279,
+            "name": "미르마르",
+            "final_score": 0.4695
+          },
+          {
+            "id": 1536161656,
+            "name": "하슬라가배",
+            "final_score": 0.4638
+          },
+          {
+            "id": 1557387521,
+            "name": "할리스 강릉안목해변점",
+            "final_score": 0.4485
+          },
+          {
+            "id": 34203501,
+            "name": "에이엠브레드앤커피",
+            "final_score": 0.4411
+          },
+          {
+            "id": 36399670,
+            "name": "키크러스 강릉점",
+            "final_score": 0.4559
+          },
+          {
+            "id": 11887822,
+            "name": "커피커퍼 안목점",
+            "final_score": 0.4299
+          },
+          {
+            "id": 1267158607,
+            "name": "성수미술관 강릉안목점",
+            "final_score": 0.4415
+          },
+          {
+            "id": 33021650,
+            "name": "스타벅스 강릉안목해변점",
+            "final_score": 0.4315
+          },
+          {
+            "id": 15331732,
+            "name": "커피씨엘",
+            "final_score": 0.3991
+          }
+        ],
+        "Restaurant": [
+          {
+            "id": 1582249955,
+            "name": "브라보칼국수 강릉본점",
+            "final_score": 0.4404
+          },
+          {
+            "id": 1991602969,
+            "name": "솔향",
+            "final_score": 0.4475
+          },
+          {
+            "id": 1261122567,
+            "name": "안목항물회",
+            "final_score": 0.4026
+          },
+          {
+            "id": 15349625,
+            "name": "아라담횟집",
+            "final_score": 0.4674
+          },
+          {
+            "id": 1929924200,
+            "name": "강릉역옹막 안목점",
+            "final_score": 0.3921
+          },
+          {
+            "id": 1613946855,
+            "name": "명문",
+            "final_score": 0.4116
+          },
+          {
+            "id": 1165823672,
+            "name": "안목해변 술집 문문",
+            "final_score": 0.4035
+          },
+          {
+            "id": 38268032,
+            "name": "버거웍스",
+            "final_score": 0.3498
+          },
+          {
+            "id": 15349253,
+            "name": "삼우옹심이",
+            "final_score": 0.4336
+          },
+          {
+            "id": 1347619457,
+            "name": "송정불향쭈꾸미",
+            "final_score": 0.3816
+          }
+        ],
+        "Attraction": [
+          {
+            "id": 939463951,
+            "name": "강릉 안목해맞이공원",
+            "final_score": 0.4903
+          },
+          {
+            "id": 20947876,
+            "name": "강릉커피거리",
+            "final_score": 0.4585
+          },
+          {
+            "id": 32268465,
+            "name": "환희컵박물관",
+            "final_score": 0.4634
+          },
+          {
+            "id": 13491906,
+            "name": "안목해변",
+            "final_score": 0.4319
+          },
+          {
+            "id": 13491444,
+            "name": "남항진해변",
+            "final_score": 0.4676
+          },
+          {
+            "id": 15692195,
+            "name": "강릉항",
+            "final_score": 0.4142
+          },
+          {
+            "id": 20065935,
+            "name": "송정해변",
+            "final_score": 0.4457
+          },
+          {
+            "id": 13491183,
+            "name": "강문해변",
+            "final_score": 0.4835
+          },
+          {
+            "id": 1287320440,
+            "name": "강릉 월화거리",
+            "final_score": 0.5113
+          },
+          {
+            "id": 15701732,
+            "name": "염전해변",
+            "final_score": 0.4786
+          }
+        ]
+      }
+    }
+  ]
+}
